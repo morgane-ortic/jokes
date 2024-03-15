@@ -2,7 +2,9 @@
 
 ## CAUTION - Most hilarious jokes ever, please don't laugh too much.
 
-![a kitten who's never heard so funny jokes (he's 3 days old)](cat.jpg)
+![a kitten who's never heard such funny jokes (he's 3 days old)](cat.jpg)
+
+*A kitten who's never heard such funny jokes (he's 3 days old)*
 
 > Why couldn't the two elephants go swimming?
 >> Because they only had one pair of trunks between them.
