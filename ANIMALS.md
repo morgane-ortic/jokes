@@ -6,20 +6,62 @@
 
 *A kitten who's never heard such funny jokes (he's 3 days old)*
 
-> Why couldn't the two elephants go swimming?
->> Because they only had one pair of trunks between them.
+<br>
 
-> Why do squid swim in salt water?
->> Because pepper makes them sneeze.
+<details>
+  <summary>Why couldn't the two elephants go swimming?</summary>
 
->  How do you raise a baby elephant?
->> With a crane.
+  ```
+  Because they only had one pair of trunks between them.
+  ```
+</details>
 
->  What runs around the forest making other animals yawn?
->> A wild boar.
+<br>
 
-> Did you hear about the emu that grew so big that it was shunned by the rest of its group?
->> It was ostrich sized.
+<details>
+  <summary>Why do squid swim in salt water?</summary>
 
-> There were 20 cats in a plane. One jumped out. How many were left?
->> None, the others were copycats 
+  ```
+  Because pepper makes them sneeze.
+  ```
+</details>
+
+<br>
+
+<details>
+  <summary>How do you raise a baby elephant?</summary>
+
+  ```
+ With a crane.
+  ```
+</details>
+
+<br>
+
+<details>
+  <summary>What runs around the forest making other animals yawn?</summary>
+
+  ```
+A wild boar.
+  ```
+</details>
+
+<br>
+
+<details>
+  <summary>Did you hear about the emu that grew so big that it was shunned by the rest of its group?</summary>
+
+  ```
+It was ostrich sized.
+  ```
+</details>
+
+<br>
+
+<details>
+  <summary>There were 20 cats in a plane. One jumped out. How many were left?</summary>
+
+  ```
+None, the others were copycats 
+  ```
+</details>

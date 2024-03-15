@@ -13,5 +13,24 @@ jokes = [
     "Why did the tomato turn red? Because it saw the salad dressing!"
 ]
 
-random_joke = random.choice(jokes)
-print(random_joke)
+def tell_joke():
+    if not jokes:
+        print("No more jokes to tell!")
+        return
+    random_joke = random.choice(jokes)
+    jokes.remove(random_joke)
+    print(random_joke)
+
+def ask_for_another_joke():
+    answer = input("Do you want to hear another joke? (yes/no): ")
+    if answer.lower() == "yes":
+        tell_joke()
+        ask_for_another_joke()
+    elif answer.lower() == "no":
+        print("Ok grumpy pants")
+    else:
+        print("Invalid input. Please enter 'yes' or 'no'.")
+        ask_for_another_joke()
+
+tell_joke()
+ask_for_another_joke()
