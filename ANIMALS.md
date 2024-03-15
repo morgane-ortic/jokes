@@ -6,6 +6,8 @@
 
 *A kitten who's never heard such funny jokes (he's 3 days old)*
 
+<br>
+
 <details>
   <summary>Why couldn't the two elephants go swimming?</summary>
 
