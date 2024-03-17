@@ -23,10 +23,10 @@ def tell_joke():
 
 def ask_for_another_joke():
     answer = input("Do you want to hear another joke? (yes/no): ")
-    if answer.lower() == "yes":
+    if answer.lower() == "yes" or answer.lower() == "y":
         tell_joke()
         ask_for_another_joke()
-    elif answer.lower() == "no":
+    elif answer.lower() == "no" or answer.lower() == "n":
         print("Ok grumpy pants")
     else:
         print("Invalid input. Please enter 'yes' or 'no'.")
