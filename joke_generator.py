@@ -27,7 +27,7 @@ def ask_for_another_joke():
         tell_joke()
         ask_for_another_joke()
     elif answer.lower() == "no" or answer.lower() == "n":
-        print("Ok grumpy pants")
+        print("Ok, grumpy pants")
     else:
         print("Invalid input. Please enter 'yes' or 'no'.")
         ask_for_another_joke()
